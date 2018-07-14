@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hosting",
-    "currentPage": "index.html",
+    "currentPage": "server.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -722,7 +722,7 @@
           },
           "title1": "VANILLA",
           "caption1": "Vanilla Minecraft is well for private Server! Without Plugins and Mods!<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ORDER NOW</a>",
           "media2": {
             "image": {
               "active": true,
